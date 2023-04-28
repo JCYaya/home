@@ -1,5 +1,5 @@
 a {
-  color: #11999E;
+  color: #798777;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   margin: 10px 20px;
@@ -14,29 +14,29 @@ body {
   font-size: 0.90rem;
   text-align: center;
   font-family: 'Merriweather', serif;
-  color: #40154E;
+  color: #3C6255;
 }
 
 h1 {
-  color: #66BFBF;
+  color: #798777;
   font-size: 5.625rem;
   margin: 10px auto 0 auto;
   font-family: 'Poppins';
 }
 
 h2 {
-  color: #66BFBF;
+  color: #798777;
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
 }
 
 h3 {
-  color: #11999E;
+  color: #798777;
   font-family: 'Montserrat', sans-serif;
 }
 
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted #BDD2B6 6px;
   border-bottom: none;
   width: 4%;
   margin: 40px auto;
@@ -47,17 +47,18 @@ p {
 }
 
 .top-container {
-  background-color: #EAF6F6;
+  background-color: #BDD2B6;
   padding-top: 10px;
   padding: 50px;
 }
 
 .middle-container {
   padding: 25px 0;
+  background-color: #F8EDE3;
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #BDD2B6;
   padding: 50px 0 20px;
 }
 
@@ -111,34 +112,24 @@ p {
 }
 
 .btn {
-  background: #11cdd4;
-  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
-  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
-  -webkit-border-radius: 8;
-  -moz-border-radius: 8;
-  border-radius: 8px;
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
   font-family: Montserrat;
-  color: #ffffff;
-  font-size: 16px;
+  color: #798777;
+  font-size: 20px;
+  background: #BDD2B6;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
 .btn:hover {
-  background: #30e3cb;
-  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  background: #F8EDE3;
   text-decoration: none;
 }
 
 .copyright {
-  color: #EAF6F6;
+  color: #F8EDE3;
   font-size: 0.75rem;
   padding: 20px 0;
 }
