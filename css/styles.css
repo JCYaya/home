@@ -46,6 +46,11 @@ p {
   line-height: 2;
 }
 
+.divider {
+  width: 20%;
+}
+
+
 .top-container {
   background-color: #BDD2B6;
   padding-top: 10px;
