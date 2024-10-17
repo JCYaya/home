@@ -55,19 +55,18 @@ p {
 
 .piece {
   margin: 10px auto auto auto;
+  max-width: 100%
  
 }
 
 .piecevert img {
   margin: 10px;
   height: auto;
-  width: 1000px;
 }
 
 .piecehoriz img {
   margin: 10px;
   height: auto;
-  width: 2000px;
 }
 
 .divider {
