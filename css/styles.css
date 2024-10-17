@@ -17,6 +17,12 @@ body {
   color: #3C6255;
 }
 
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 h1 {
   color: #798777;
   font-size: 5rem;
@@ -45,6 +51,23 @@ hr {
 
 p {
   line-height: 2;
+}
+
+.piece {
+  margin: 10px auto auto auto;
+ 
+}
+
+.piecevert img {
+  margin: 10px;
+  height: auto;
+  width: 1000px;
+}
+
+.piecehoriz img {
+  margin: 10px;
+  height: auto;
+  width: 2000px;
 }
 
 .divider {
