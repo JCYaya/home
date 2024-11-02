@@ -1,6 +1,6 @@
 a {
-  color: #798777;
-  font-family: 'Ubuntu', sans-serif;
+  color: #4e674a;
+  font-family: 'Kumbh Sans', sans-serif;
   font-weight: bold;
   /* margin: 10px 20px; */
 }
@@ -13,8 +13,8 @@ body {
   margin: 0;
   font-size: 0.90rem;
   text-align: center;
-  font-family: "Ubuntu";
-  color: #3C6255;
+  font-family: "Kumbh Sans";
+  color: #253932;
 }
 
 .gallery {
@@ -24,22 +24,23 @@ body {
 }
 
 h1 {
-  color: #798777;
+  color: #303c2e;
   font-size: 5rem;
-  margin: 5px 5px 0 auto;
-  font-family: 'Ubuntu';
+  margin: 2px 1px 0 auto;
+  font-family: 'Sriracha';
   font-weight: bold;
 }
 
 h2 {
-  color: #798777;
-  font-family: 'Ubuntu', sans-serif;
+  color: #455144;
+  font-family: 'Play', sans-serif;
+  margin: 2px 1px 0 auto;
   font-size: 2.1rem;
 }
 
 h3 {
-  color: #798777;
-  font-family: 'Ubuntu', sans-serif;
+  color: #2a3429;
+  font-family: 'Kumbh+Sans', sans-serif;
 }
 
 hr {
@@ -105,7 +106,7 @@ p {
 }
 
 .skill-row {
-  width: 56%;
+  width: 38rem;
   margin: 15px auto 30px auto;
   text-align: left;
 }
@@ -145,8 +146,8 @@ p {
   -webkit-border-radius: 60;
   -moz-border-radius: 60;
   border-radius: 60px;
-  font-family: Montserrat;
-  color: #798777;
+  font-family: 'Kumbh Sans';
+  color: #313830;
   font-size: 20px;
   background: #BDD2B6;
   padding: 10px 20px 10px 20px;
@@ -154,12 +155,13 @@ p {
 }
 
 .btn:hover {
-  background: #F8EDE3;
+  background: #abd298;
   text-decoration: none;
+  color: #2f362e;
 }
 
 .copyright {
-  color: #F8EDE3;
+  color: #2c352e;
   font-size: 0.75rem;
   padding: 20px 0;
 }
