@@ -128,6 +128,18 @@ p {
   width: 20%;
 }
 
+.space-img {
+  width: 90%
+}
+
+.beet-img {
+  width:90%
+}
+
+.escape-img {
+  width: 100%
+}
+
 .top-cloud {
   position: absolute;
   right: 300px;
